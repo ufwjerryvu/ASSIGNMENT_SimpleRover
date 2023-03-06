@@ -1,2 +1,0 @@
-# ASSIGNMENT_SimpleRover
-USYD ELEC1601-2022S2 Submission
